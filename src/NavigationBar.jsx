@@ -19,6 +19,21 @@ const NavigationBar = () => {
       <About title="First React App"></About>
     </div>
   );
+  // return (
+  //   <div>
+  //     <a href="https://github.com/prasad-kancharla">
+  //       <u>Home</u>
+  //     </a>{" "}
+  //     <a href="https://www.linkedin.com/in/kdgkaliprasad">
+  //       <u>About</u>
+  //     </a>{" "}
+  //     <a href="http://localhost:3000">
+  //       <u>Settings</u>
+  //     </a>
+  //     <Home name="Prasad"></Home>
+  //     <About title="First React App"></About>
+  //   </div>
+  // );
 };
 
 export default NavigationBar;
